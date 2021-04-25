@@ -28,7 +28,7 @@ Information about user's repositories is taken from [Github API](https://api.git
 
 Clone repository
 ```
-git clone REPO
+git clone https://github.com/matyldv/github-repo-api
 ```
 Open repo directory
 ```
@@ -50,7 +50,7 @@ docker-compose down
 
 Clone repository
 ```
-git clone REPO
+git clone https://github.com/matyldv/github-repo-api
 ```
 Open code directory
 ```
