@@ -126,8 +126,6 @@ Here is all information about API's abilities and the data that is returned.
 ![API Swagger](./img/swagger.PNG)
 
 ## Technologies
-#
-
 
 | Name | Version |
 | ------ | ------ |
@@ -138,7 +136,6 @@ Here is all information about API's abilities and the data that is returned.
 | Werkzeug | 0.16.0 |   
 
 ## Tests
-#
 
 After starting the server you can also run some tests.
 If you are using docker use this command and the next one
